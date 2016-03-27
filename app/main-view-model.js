@@ -40,7 +40,7 @@ function createViewModel() {
         {name: "Cook", speech: "Let's cook dinner together."},             
         {name: "Lava", speech: "Watch out there's hot lava on the floor!"},             
         {name: "Chicken", speech: "Do you like chicken on the bone?"},             
-        {name: "Baking", speech: "What shoudl we bake today Charlie."},             
+        {name: "Baking", speech: "What should we bake today Charlie."},             
         {name: "Bike", speech: "Charlie and his robot were riding on his bike outside."},             
         {name: "Running", speech: "Let's run in a cave today with flashlights."},             
         {name: "Bird Feeder", speech: "Let's put a bird feeder with crocodile stickers outside for the birds to eat."},             
