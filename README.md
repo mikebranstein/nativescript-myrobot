@@ -42,6 +42,8 @@ platforms, prepare, then build.
 	tns prepare ios
 	tns build ios
 	tns run ios --emulator --device "iPad Retina"
+  
+After you launch the app, be sure to rotate the screen sideways.
 
 # Contributors
 

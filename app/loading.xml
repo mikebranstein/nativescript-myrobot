@@ -1,6 +1,6 @@
 <Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
     <StackLayout>
-        <Label text="Loading Brostein OS v0.1.2..." class="title" />
+        <Label text="Loading Brosteins OS v0.1.2..." class="title" />
         <ActivityIndicator busy="true" width="100" height="100" />
         <Progress value="{{ progress }}" maxValue="100" width="500" />
     </StackLayout>
