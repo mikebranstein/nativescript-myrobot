@@ -8,7 +8,7 @@ library to create a robot soundboard.
 On Saturday morning, my sons and I were casually watching several videos from Boston Dynamics. This drove the boys to build
 their own robots out of cardboard, paper cups, glue, and duct tape. As we were building, my oldest son wanted his robot to
 talk. A few minutes later, we sat down at my laptop, I told him about "code", and spun up a NativeScript app for his iPad. 
-Combined with his iGuy case (http://www.amazon.com/Speck-Products-Freestanding-Orange-SPK-A1227/dp/B007JGBD22/ref=sr_1_1?ie=UTF8&qid=1459045711&sr=8-1&keywords=iguy), 
+Combined with his [iGuy case](http://www.amazon.com/Speck-Products-Freestanding-Orange-SPK-A1227/dp/B007JGBD22/ref=sr_1_1?ie=UTF8&qid=1459045711&sr=8-1&keywords=iguy), 
 the iPad became the robot's head. A simple text-to-speech plugin and a soundboard interface allows the boys to have their
 robot come to life.
 
