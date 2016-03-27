@@ -11,6 +11,8 @@ function createViewModel() {
         {name: "Pants!", speech: "Honey, where are my pants?"},             
         {name: "Coffee", speech: "I need a coffee drink."},             
         {name: "Dance", speech: "Let's dance together."},             
+        {name: "Head!", speech: "Baby, where is my head?"},             
+        {name: "Yellow", speech: "Mom's favorite color is yellow!"},             
         {name: "Treaties", speech: "I love treaties!"}             
     ];
     viewModel.profiles.charlie = new Observable();
@@ -24,6 +26,25 @@ function createViewModel() {
         {name: "Error", speech: "bleep bloop crash error error error"},             
         {name: "Cupid", speech: "Let's go get Cupid and play a game."},             
         {name: "Charlie", speech: "You're a great friend Charlie."},          
+        {name: "Bigfoot", speech: "Watch out! There's a bigfoot behind you!"},             
+        {name: "School", speech: "It's time to go to school, pur on your backpack Charlie."},             
+        {name: "Easter", speech: "It's Easter time."},             
+        {name: "Pirate Ship", speech: "Who made that pirate ship?"},             
+        {name: "Home", speech: "Let's build a home together."},             
+        {name: "Decorations", speech: "Time to put decorations on the window Charlie."},             
+        {name: "Grocery Cart", speech: "Let me push the grocery cart to get food."},             
+        {name: "Alien", speech: "Outer space is really scary when there's an octopus outside your spaceship."},             
+        {name: "Pillow Fight", speech: "Let's have a pillow fight!"},             
+        {name: "Superman", speech: "The most powerful superhero is Superman."},             
+        {name: "Gingerbread Cookies", speech: "I want to eat gingerbread cookies with you Charlie."},             
+        {name: "Cook", speech: "Let's cook dinner together."},             
+        {name: "Lava", speech: "Watch out there's hot lava on the floor!"},             
+        {name: "Chicken", speech: "Do you like chicken on the bone?"},             
+        {name: "Baking", speech: "What shoudl we bake today Charlie."},             
+        {name: "Bike", speech: "Charlie and his robot were riding on his bike outside."},             
+        {name: "Running", speech: "Let's run in a cave today with flashlights."},             
+        {name: "Bird Feeder", speech: "Let's put a bird feeder with crocodile stickers outside for the birds to eat."},             
+        {name: "Older", speech: "When we are older, can you build me some legs?"},             
         {name: "Builder", speech: "Charlie, you're a great builder and maker."}            
     ]; 
     viewModel.profiles.mike = new Observable();
@@ -32,6 +53,12 @@ function createViewModel() {
         {name: "Zombie", speech: "I am a zombie. Run!"},             
         {name: "Scooby Doo", speech: "Scooby dooby doo"},             
         {name: "Earth", speech: "The earth is the third planet from the sun"},             
+        {name: "Lamp", speech: "Why is there a lamp shade on your head dad?"},             
+        {name: "Astronauts", speech: "Astronauts drink form a straw that travels up the side of their body in their spacesuits."},             
+        {name: "Worms", speech: "Earthworms help plants grow by eating and igging through the soil."},             
+        {name: "Lego", speech: "Dad, why are there legos in your pocket?"},             
+        {name: "Race", speech: "Let's race today."},             
+        {name: "Cars", speech: "Combustion engines run on gasoline."},             
         {name: "Me", speech: "Your dad created me to help Charlie and Wes"}             
     ]; 
     viewModel.profiles.wes = new Observable();
@@ -42,6 +69,7 @@ function createViewModel() {
         {name: "Monster", speech: "Look out behind you. It's a monster"},             
         {name: "Funny", speech: "Wesley you are so funny."},             
         {name: "Smart", speech: "Wesley your ideas are very inventive."},             
+        {name: "Race Cars", speech: "There are race cars driving fast outside."},             
         {name: "Maker", speech: "Wes you are a great builder and maker"},             
     ]; 
 
