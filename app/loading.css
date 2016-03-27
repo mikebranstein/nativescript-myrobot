@@ -1,0 +1,13 @@
+Page {
+    background-color: black;
+}
+.title {
+    margin-top: 100px;
+    color: #d3d3d3;
+}
+ActivityIndicator {
+    color: #d3d3d3;
+}
+Progress {
+    color: #d3d3d3;
+}

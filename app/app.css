@@ -1,0 +1,13 @@
+﻿.title {
+    font-size: 45;
+    horizontal-align: center;
+    margin: 20;
+}
+
+.speech {
+    background-color: lightgrey;
+    border-color: darkgray;
+    border-width: 2px;
+    padding: 5px;
+    font-size: 30;
+}

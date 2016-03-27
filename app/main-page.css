@@ -1,0 +1,19 @@
+Button {
+    background-repeat: no-repeat;
+    background-size: 340px 340px;
+    background-position: left top;
+    width: 340px;
+    height: 340px;
+}
+#wes {
+    background-image: url("res://wes");
+}
+#charlie {
+    background-image: url("res://charlie");
+}
+#abby {
+    background-image: url("res://abby");
+}
+#mike {
+    background-image: url("res://mike");
+}

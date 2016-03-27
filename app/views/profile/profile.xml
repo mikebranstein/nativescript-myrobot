@@ -1,0 +1,16 @@
+
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+    <ScrollView>
+        <StackLayout>
+            <Label text="{{ name }}" class="title" />
+            <Repeater items="{{ items }}">
+                <Repeater.itemsLayout>
+                    <WrapLayout orientation="horizontal" />
+                </Repeater.itemsLayout>
+                <Repeater.itemTemplate>
+                    <Button text="{{ name }}" tap="onTap" class="speech" />
+                </Repeater.itemTemplate>
+            </Repeater>
+        </StackLayout>
+    </ScrollView>
+</Page>

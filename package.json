@@ -1,0 +1,12 @@
+{
+  "nativescript": {
+    "id": "com.brosteins.robottalk",
+    "tns-ios": {
+      "version": "1.7.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-texttospeech": "^1.1.1",
+    "tns-core-modules": "1.7.1"
+  }
+}

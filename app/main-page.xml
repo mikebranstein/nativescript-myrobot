@@ -1,0 +1,12 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+    <ScrollView>
+        <StackLayout>
+            <GridLayout rows="*,*" columns="*,*" width="700" height="700">
+                <Button id="charlie" row="0" col="0" tap="{{ onTap }}" />
+                <Button id="wes" row="0" col="1" tap="{{ onTap }}" />
+                <Button id="abby" row="1" col="0" tap="{{ onTap }}" />
+                <Button id="mike" row="1" col="1" tap="{{ onTap }}" />
+            </GridLayout>
+        </StackLayout>
+    </ScrollView>
+</Page>
