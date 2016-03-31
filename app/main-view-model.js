@@ -13,6 +13,11 @@ function createViewModel() {
         {name: "Dance", speech: "Let's dance together."},             
         {name: "Head!", speech: "Baby, where is my head?"},             
         {name: "Yellow", speech: "Mom's favorite color is yellow!"},             
+        {name: "Cup", speech: "There's a cup onyour head with water in it! Watch out!"},             
+        {name: "Bacon", speech: "Why is that bacon wearing glasses on your head?"},             
+        {name: "Hair", speech: "I love your beautiful blonde hair."},             
+        {name: "Backpack", speech: "THere's two backpacks stuck to your back."},             
+        {name: "Cotton Balls", speech: "Mommy, why did you eat those cotton balls?"},             
         {name: "Treaties", speech: "I love treaties!"}             
     ];
     viewModel.profiles.charlie = new Observable();
@@ -45,6 +50,11 @@ function createViewModel() {
         {name: "Running", speech: "Let's run in a cave today with flashlights."},             
         {name: "Bird Feeder", speech: "Let's put a bird feeder with crocodile stickers outside for the birds to eat."},             
         {name: "Older", speech: "When we are older, can you build me some legs?"},             
+        {name: "Wes", speech: "Wes, there's a spaceship going by. I can see it through the window."},             
+        {name: "Mashmallow", speech: "Eating marshmallows is my favorite thing to do over the 4th of July."},             
+        {name: "Pkitty", speech: "I hope pee kitty can sleep with me tonight."},             
+        {name: "Game", speech: "Let's design and build a game together."},             
+        {name: "Fun!", speech: "I'm having so much fun with you Charlie."},             
         {name: "Builder", speech: "Charlie, you're a great builder and maker."}            
     ]; 
     viewModel.profiles.mike = new Observable();
